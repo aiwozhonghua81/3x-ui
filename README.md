@@ -2,6 +2,25 @@
 
 # 🇨🇳 3x-ui 中文详细说明
 
+<!-- 徽章区开始 -->
+<p align="center">
+  <a href="https://github.com/aiwozhonghua81/3x-ui"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-aiwozhonghua81-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img alt="最近提交" src="https://img.shields.io/github/last-commit/aiwozhonghua81/3x-ui?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4">
+  <img alt="主语言" src="https://img.shields.io/github/languages/top/aiwozhonghua81/3x-ui?style=flat-square&label=%E4%B8%BB%E8%AF%AD%E8%A8%80">
+  <img alt="星标" src="https://img.shields.io/github/stars/aiwozhonghua81/3x-ui?style=flat-square&label=%E6%98%9F%E6%A0%87">
+  <img alt="仓库体积" src="https://img.shields.io/github/repo-size/aiwozhonghua81/3x-ui?style=flat-square&label=%E4%BB%93%E5%BA%93%E4%BD%93%E7%A7%AF">
+  <img alt="许可证" src="https://img.shields.io/github/license/aiwozhonghua81/3x-ui?style=flat-square&label=%E8%AE%B8%E5%8F%AF%E8%AF%81">
+</p>
+<p align="center">
+  <img alt="中文说明" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E-%E5%B7%B2%E5%AE%8C%E6%95%B4%E8%A6%86%E7%9B%96-brightgreen?style=flat-square">
+  <img alt="给新手看" src="https://img.shields.io/badge/%E7%BB%99%E6%96%B0%E6%89%8B%E7%9C%8B-%E4%B8%8D%E7%94%A8%E6%87%82%E4%BB%A3%E7%A0%81-blue?style=flat-square">
+  <img alt="配图" src="https://img.shields.io/badge/%E9%85%8D%E5%9B%BE-%E5%AE%9E%E6%8B%8D%E6%88%AA%E5%9B%BE%E4%B8%8E%E5%A4%B4%E5%9B%BE-ff69b4?style=flat-square">
+</p>
+<p align="center">
+  <img src="media/01-overview-dark.png" alt="3x-ui 头图" width="880">
+</p>
+<!-- 徽章区结束 -->
+
 > 这一节是为中文读者写的完整说明，放在最前面，方便第一次接触这个项目的人直接看懂。
 > 往下滚可以看到**上游项目的原始 README（英文原文）**，内容一个字都没有删改。
 
@@ -472,6 +491,34 @@ git push origin main
 | Xray-core 内核 | https://github.com/XTLS/Xray-core |
 | Release 下载页 | https://github.com/MHSanaei/3x-ui/releases |
 | Docker 镜像 | `ghcr.io/mhsanaei/3x-ui` |
+
+
+## 🖼️ 界面截图一览
+下面这些图都是**这个仓库里原本就带的真实截图**，不是画的示意图：
+
+**① 面板首页总览（深色）**
+
+<img src="media/01-overview-dark.png" alt="面板首页总览（深色）" width="820">
+
+**② 入站列表**
+
+<img src="media/02-inbounds-dark.png" alt="入站列表" width="820">
+
+**③ 客户端配置**
+
+<img src="media/03-client-dark.png" alt="客户端配置" width="820">
+
+**④ 节点管理**
+
+<img src="media/05-nodes-dark.png" alt="节点管理" width="820">
+
+**⑤ 设置页**
+
+<img src="media/06-settings-dark.png" alt="设置页" width="820">
+
+**⑥ API 文档页**
+
+<img src="media/08-api-docs-dark.png" alt="API 文档页" width="820">
 
 <!-- 中文说明结束 -->
 
